@@ -36,4 +36,5 @@ func main() {
 
 	fmt.Println("Бот Боб запущен бро")
 	bot.Start()
+
 }
